@@ -1,0 +1,14 @@
+# Site settings
+title: My Engineering Adventures
+description: Thoughts, stories and ideas.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.molleti.in" # the base hostname & protocol for your site
+twitter_username: bharatmolleti
+github_username:  bharatmolleti
+
+# Build settings
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title/
+
+google_analytics: UA-0000000-1
